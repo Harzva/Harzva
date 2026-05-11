@@ -77,11 +77,11 @@
 | Project | Description |
 | :--- | :--- |
 | [learn-likecc](https://github.com/Harzva/learn-likecc)<br>![stars](https://img.shields.io/github/stars/Harzva/learn-likecc?style=social) | Claude Code 逆向工程、source map 恢复、运行时分析与工作流重建 |
-| [everything-agent-cli-to-claude-code](https://github.com/Harzva/everything-agent-cli-to-claude-code)<br>![stars](https://img.shields.io/github/stars/Harzva/everything-agent-cli-to-claude-code?style=social) | 将多模型 CLI 能力整合到 Claude Code 为中心的工作流 |
-| [gemini-plugin-cc](https://github.com/Harzva/gemini-plugin-cc)<br>![stars](https://img.shields.io/github/stars/Harzva/gemini-plugin-cc?style=social) | Claude Code 生态的 Gemini 插件脚手架 |
-| [qwen-plugin-cc](https://github.com/Harzva/qwen-plugin-cc)<br>![stars](https://img.shields.io/github/stars/Harzva/qwen-plugin-cc?style=social) | 支持认证感知的 Qwen 插件脚手架 |
-| [grok-plugin-cc](https://github.com/Harzva/grok-plugin-cc)<br>![stars](https://img.shields.io/github/stars/Harzva/grok-plugin-cc?style=social) | 用于评审和审查工作流的 Grok 插件 |
-| [trae-plugin-cc](https://github.com/Harzva/trae-plugin-cc)<br>![stars](https://img.shields.io/github/stars/Harzva/trae-plugin-cc?style=social) | Trae 插件脚手架与集成实验 |
+| [codex-managed-agent](https://github.com/Harzva/codex-managed-agent)<br>![stars](https://img.shields.io/github/stars/Harzva/codex-managed-agent?style=social) | 面向 Codex / coding agent 的多智能体管理实验，关注任务编排、状态管理和执行控制 |
+| [keep-claude-cheaper](https://github.com/Harzva/keep-claude-cheaper)<br>![stars](https://img.shields.io/github/stars/Harzva/keep-claude-cheaper?style=social) | Token Saver 方向：研究 prompt-cache reuse、trace 解析和 harness 层成本优化 |
+| [HyperMemory](https://github.com/Harzva/HyperMemory)<br>![stars](https://img.shields.io/github/stars/Harzva/HyperMemory?style=social) | Memory-enhanced AI knowledge system，连接 RAG、Agent、Wiki、GBrain 和层级记忆 |
+| [ChinaAI-Roadmaps](https://github.com/Harzva/ChinaAI-Roadmaps)<br>![stars](https://img.shields.io/github/stars/Harzva/ChinaAI-Roadmaps?style=social) | 中国开源 / 开放权重大模型公司的技术路线整理：GLM、Kimi、DeepSeek、MiniMax |
+| [LDC](https://github.com/Harzva/LDC)<br>![stars](https://img.shields.io/github/stars/Harzva/LDC?style=social) | CVPR 2025 论文 Logits DeConfusion with CLIP for Few-Shot Learning 的代码仓库 |
 
 ---
 
