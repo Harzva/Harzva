@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Harzva.png" alt="Harzva Avatar" width="112" height="112" style="border-radius: 50%;">
 
-  <h1>Harzva — AI Agent 工程与视觉语言研究</h1>
+  <h1>Harzva — Make Coding Agents Cheaper</h1>
 
   <p>
     <a href="https://harzva.github.io/">
@@ -17,12 +17,13 @@
       <img src="https://img.shields.io/badge/Email-626609967%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
     </a>
     <br>
-    <img src="https://img.shields.io/badge/Research-Few--Shot%20%7C%20Zero--Shot%20%7C%20VLM-10A37F?style=flat-square" alt="Research">
-    <img src="https://img.shields.io/badge/Engineering-Claude%20Code%20%7C%20MCP%20%7C%20Agent%20Tools-2563EB?style=flat-square" alt="Engineering">
+    <img src="https://img.shields.io/badge/Token%20Saver-Prompt%20Cache%20%7C%20Trace%20Eval-10A37F?style=flat-square" alt="Token Saver">
+    <img src="https://img.shields.io/badge/Engineering-Claude%20Code%20%7C%20MCP%20%7C%20Agent%20Harness-2563EB?style=flat-square" alt="Engineering">
+    <img src="https://img.shields.io/badge/Research-Few--Shot%20%7C%20Zero--Shot%20%7C%20VLM-7C3AED?style=flat-square" alt="Research">
   </p>
 
-  <p><strong>Research, build, explain. Keep useful work visible.</strong></p>
-  <p><em>计算机科学博士生，关注视觉语言模型、少样本学习，以及 Claude Code 生态下的 Agent 工具链。</em></p>
+  <p><strong>I work on making long-horizon coding agents cheaper by optimizing prompt-cache reuse at the harness level.</strong></p>
+  <p><em>我最近主要做 AI coding agent 的 token 成本优化，同时继续关注视觉语言模型、少样本学习和 Claude Code 生态下的 Agent 工具链。</em></p>
 
   <p>
     <a href="https://harzva.github.io/">完整作品集</a> ·
@@ -40,6 +41,7 @@
 - **想看完整作品集？** 访问 [harzva.github.io](https://harzva.github.io/)。
 - **想看论文图表和详情？** 每篇论文都有独立页面和分析入口。
 - **想看 Agent 工程项目？** 这里列出核心仓库，完整说明放在作品集网站。
+- **想看 token saver 方向？** 我最近关注 make agents cheaper：通过 harness 层的 prompt cache 复用降低 uncached input 成本。
 - **想看我的产品和工程思考？** 文章专题会持续记录 agentic engineering、案例分析和项目复盘。
 
 ---
@@ -50,6 +52,7 @@
 | :--- | :--- |
 | [Portfolio](https://harzva.github.io/) | 完整作品集、论文、项目、文章和个人介绍 |
 | [Agent Projects](https://harzva.github.io/#projects) | Claude Code 生态、MCP、多 Agent 编排、插件脚手架 |
+| Token Saver | AI coding agent 的 token 成本优化、prompt cache 复用、trace 解析与 A/B 评估 |
 | [Publications](https://harzva.github.io/#publications) | 论文详情页、关键图表、方法分析 |
 | [Article Analysis](https://harzva.github.io/#articles) | 产品、增长、工程和分发相关案例分析 |
 | [Agentic Engineering](https://harzva.github.io/#vibe) | 从 token 到产品、APP 即上下文工程、过程即内容等思考 |
@@ -60,9 +63,12 @@
 
 | Direction | Focus |
 | :--- | :--- |
+| Token Saver / Make Agents Cheaper | Prompt-cache reuse at the harness level, trace parsing, prompt layout optimization, A/B evaluation |
 | AI Agent Infrastructure | Claude Code ecosystem, MCP, multi-agent orchestration, plugin scaffolds |
 | Vision-Language Research | Few-shot learning, zero-shot learning, compositional generalization, multimodal prompts |
 | Engineering Notes | Agentic engineering, product thinking, development process, case analysis |
+
+我最近主要做 AI coding agent 的 token 成本优化。核心不是简单压缩上下文，而是研究 agent harness 里哪些内容稳定、哪些内容动态，并通过 prompt layout 调整、trace 解析和 A/B 评估，提高 prompt cache hit rate，减少实际付费的 uncached input，同时保持任务成功率。
 
 ---
 
