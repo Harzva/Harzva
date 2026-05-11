@@ -2,69 +2,102 @@
 
 # 郝泽华 · Harzva
 
-**AI Agent 开发者 | 计算机科学博士生**
+**AI Agent Developer · Computer Science PhD Student**
 
-西安电子科技大学 · 内蒙古工业大学（本科）
+西安电子科技大学 · 计算机科学博士生<br>
+研究方向：Few-Shot Learning · Zero-Shot Learning · Vision-Language Models · AI Agent Infrastructure
 
-[Portfolio](https://harzva.github.io) · [GitHub](https://github.com/Harzva) · [ORCID](https://orcid.org/0009-0006-8057-2958)
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-harzva.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://harzva.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Harzva-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harzva)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8057--2958-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8057-2958)
+[![Email](https://img.shields.io/badge/Email-626609967%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:626609967@qq.com)
 
 </div>
 
-## About
+---
 
-我是一名专注于 **AI 系统与智能体基础设施** 的研究者与开发者。
+## Start Here
 
-我的旅程始于自动化工程（内蒙古工业大学，2019），在西安电子科技大学深耕计算机视觉研究，如今聚焦于 AI Agent 工具链的前沿领域。
+我是郝泽华，目前主要做两条线：
 
-我架起了学术研究与工程实践之间的桥梁——从[小样本学习（CVPR 2025）](https://harzva.github.io)到 AI Agent 基础设施。
+- **研究线**：小样本学习、组合零样本学习、视觉语言模型、多模态理解。
+- **工程线**：Claude Code 生态、MCP 协议、多 Agent 编排、Agent 工具链与开发者工作流。
 
-## Research
+This profile is the lightweight entrance.<br>
+For the complete portfolio, paper pages, figures, project notes, and article analysis, visit:
 
-**11 篇学术论文**（含 **3 篇 CCF-A 顶会**：ECCV 2022、AAAI 2024、CVPR 2025）
+**[harzva.github.io](https://harzva.github.io/)**
 
-| # | 论文 | 会议/期刊 | 年份 | CCF |
-|---|------|----------|------|-----|
-| 01 | [G2D: Discriminative-Generative Collaborative Inference for Zero-Shot Image Classification](https://harzva.github.io) | arXiv | 2025 | - |
-| 02 | [Preserving Text Space Integrity for Robust Compositional Zero-Shot Learning via Mixture of Pretrained Experts](https://harzva.github.io) | Neurocomputing | 2025 | Q1 |
-| 03 | [Text Augmentation for Vision](https://harzva.github.io) | Knowledge-Based Systems | 2026 | Q1 |
-| 04 | [Logits DeConfusion](https://harzva.github.io) | CVPR | 2025 | A |
-| 05 | [PromptVAD: Prompt-Based Video Anomaly Detection](https://harzva.github.io) | TNNLS | 2023 | Q1 |
-| 06 | [MinEnt: Minimum Entropy for Self-Supervised Representation Learning](https://harzva.github.io) | Pattern Recognition | 2023 | Q1 |
-| 07 | [LF2CS: Learning Features into Clustering Space for Few-Shot Image Classification](https://harzva.github.io) | ECCV | 2022 | A |
-| 08 | [Text Generation and Multi-Modal Knowledge Transfer for Few-Shot Object Detection](https://harzva.github.io) | Pattern Recognition | 2025 | Q1 |
-| 09 | [Augmentative Contrastive Learning for One-Shot Object Detection](https://harzva.github.io) | Neurocomputing | 2022 | Q1 |
-| 10 | [ViLT-CLIP: Video and Language Tuning CLIP with Multimodal Prompt Learning](https://harzva.github.io) | AAAI | 2024 | A |
-| 11 | [LLM Knowledge-Driven Target Prototype Learning for Few-Shot Segmentation](https://harzva.github.io) | Knowledge-Based Systems | 2025 | Q1 |
+---
 
-**研究主题**：Few-Shot Learning · Zero-Shot Learning · Vision-Language Models · AI Agent Infrastructure
+## What I Am Working On
 
-## GitHub Stats
+| Direction | Focus |
+|---|---|
+| AI Agent Infrastructure | Claude Code ecosystem, MCP, multi-agent orchestration, plugin scaffolds |
+| Vision-Language Research | Few-shot learning, zero-shot learning, compositional generalization, multimodal prompts |
+| Engineering Notes | Agentic engineering, product thinking, development process, case analysis |
 
-![Harzva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harzva&show_icons=true&theme=default&hide_border=true)
+---
 
-## Core Projects
+## Selected Projects
 
-| Project | Stars | Description |
-|---------|-------|-------------|
-| [learn-likecc](https://github.com/Harzva/learn-likecc) | 71 | Claude Code 逆向工程、源码分析、运行时验证与工作流程重建 |
-| [everything-agent-cli-to-claude-code](https://github.com/Harzva/everything-agent-cli-to-claude-code) | 3 | 将多模型 CLI 能力整合到 Claude Code 为中心的工作流 |
-| [gemini-plugin-cc](https://github.com/Harzva/gemini-plugin-cc) | 3 | Claude Code 生态的 Gemini 插件脚手架 |
-| [qwen-plugin-cc](https://github.com/Harzva/qwen-plugin-cc) | 2 | 支持认证感知的 Qwen 插件脚手架 |
-| [grok-plugin-cc](https://github.com/Harzva/grok-plugin-cc) | 2 | 用于评审和审查工作流的 Grok 插件 |
-| [trae-plugin-cc](https://github.com/Harzva/trae-plugin-cc) | 0 | Trae 插件脚手架（未来集成） |
+| Project | Role |
+|---|---|
+| [learn-likecc](https://github.com/Harzva/learn-likecc) | Claude Code reverse engineering, source map recovery, runtime analysis |
+| [everything-agent-cli-to-claude-code](https://github.com/Harzva/everything-agent-cli-to-claude-code) | Multi-model CLI adapter for Claude Code-centered workflows |
+| [gemini-plugin-cc](https://github.com/Harzva/gemini-plugin-cc) | Gemini plugin scaffold for Claude Code |
+| [qwen-plugin-cc](https://github.com/Harzva/qwen-plugin-cc) | Qwen plugin scaffold with authentication-aware design |
+| [grok-plugin-cc](https://github.com/Harzva/grok-plugin-cc) | Grok plugin for review and inspection workflows |
+| [trae-plugin-cc](https://github.com/Harzva/trae-plugin-cc) | Trae plugin scaffold and integration experiment |
+
+More project explanations are kept on the portfolio site:<br>
+[Agent Projects](https://harzva.github.io/#projects)
+
+---
+
+## Publications
+
+I have worked on papers across few-shot learning, zero-shot learning, video understanding, and vision-language models.
+
+| # | Paper | Venue | Year |
+|---|---|---|---|
+| 01 | [G2D: Discriminative-Generative Collaborative Inference for Zero-Shot Image Classification](https://harzva.github.io/#/paper/g2d) | arXiv | 2025 |
+| 02 | [Preserving Text Space Integrity for Robust Compositional Zero-Shot Learning via Mixture of Pretrained Experts](https://harzva.github.io/#/paper/mope) | Neurocomputing | 2025 |
+| 03 | [Text Augmentation for Vision](https://harzva.github.io/#/paper/textaug) | Knowledge-Based Systems | 2026 |
+| 04 | [Logits DeConfusion](https://harzva.github.io/#/paper/ldc) | CVPR | 2025 |
+| 05 | [PromptVAD: Prompt-Based Video Anomaly Detection](https://harzva.github.io/#/paper/promptvad) | TNNLS | 2023 |
+| 06 | [MinEnt: Minimum Entropy for Self-Supervised Representation Learning](https://harzva.github.io/#/paper/minent) | Pattern Recognition | 2023 |
+| 07 | [LF2CS: Learning Features into Clustering Space for Few-Shot Image Classification](https://harzva.github.io/#/paper/lf2cs) | ECCV | 2022 |
+| 08 | [Text Generation and Multi-Modal Knowledge Transfer for Few-Shot Object Detection](https://harzva.github.io/#/paper/mmkt) | Pattern Recognition | 2025 |
+| 09 | [Augmentative Contrastive Learning for One-Shot Object Detection](https://harzva.github.io/#/paper/acl) | Neurocomputing | 2022 |
+| 10 | [ViLT-CLIP: Video and Language Tuning CLIP with Multimodal Prompt Learning](https://harzva.github.io/#/paper/viltclip) | AAAI | 2024 |
+| 11 | [LLM Knowledge-Driven Target Prototype Learning for Few-Shot Segmentation](https://harzva.github.io/#/paper/kdtpl) | Knowledge-Based Systems | 2025 |
+
+Full paper notes, figures, and analysis:<br>
+[Publications](https://harzva.github.io/#publications)
+
+---
+
+## Writing And Notes
+
+I also keep notes on agentic engineering, product thinking, and case analysis.
+
+- [Agentic Engineering 思考](https://harzva.github.io/#vibe)
+- [文章专题与案例分析](https://harzva.github.io/#articles)
+- [个人作品集](https://harzva.github.io/)
+
+---
 
 ## Tech Stack
 
-```
-Python · TypeScript · React · Node.js · PyTorch · Docker
-```
+`Python` · `TypeScript` · `React` · `Node.js` · `PyTorch` · `Docker`
 
 ---
 
-<div align="center">
+## Contact
 
-⭐ 欢迎访问我的 [Portfolio 网站](https://harzva.github.io) 查看完整的论文配图详解
-
-</div>
+- Portfolio: [https://harzva.github.io](https://harzva.github.io)
+- GitHub: [@Harzva](https://github.com/Harzva)
+- ORCID: [0009-0006-8057-2958](https://orcid.org/0009-0006-8057-2958)
+- Email: [626609967@qq.com](mailto:626609967@qq.com)
