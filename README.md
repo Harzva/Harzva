@@ -29,7 +29,7 @@
 
 ## Latest Focus
 
-| Direction | What I am building |
+| Direction | Current output |
 | :--- | :--- |
 | Make Agents Cheaper | Prompt-cache reuse, trace parsing, prompt layout optimization, and A/B evaluation for coding-agent workflows. |
 | AgentWorkOS | Turning projects, threads, failures, skills, memory, rules, hooks, and workflows into a reusable personal agent operating system. |
@@ -42,7 +42,7 @@ Current active repos include [mobilecode](https://github.com/Harzva/mobilecode),
 
 ## Representative Repositories
 
-| Area | Repository | Why it matters |
+| Area | Repository | Output |
 | :--- | :--- | :--- |
 | Token Saver | [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper)<br>![stars](https://img.shields.io/github/stars/Harzva/make-agents-cheaper?style=social) | Rust CLI direction for improving prompt-cache hit rate in coding-agent workflows. |
 | AgentWorkOS | [Project2AgentWorkOS](https://github.com/Harzva/Project2AgentWorkOS)<br>![stars](https://img.shields.io/github/stars/Harzva/Project2AgentWorkOS?style=social) | Converts real project work into Agents, Memory, Skills, MCP, Workflow, Rules, and Hooks. |
@@ -57,7 +57,7 @@ Current active repos include [mobilecode](https://github.com/Harzva/mobilecode),
 
 ## Research Trail
 
-Full paper pages, figures, and reading notes live on [harzva.github.io](https://harzva.github.io/#publications).
+Paper pages, figures, and reading notes: [harzva.github.io/#publications](https://harzva.github.io/#publications).
 
 | Paper | Venue | Detail |
 | :--- | :--- | :--- |
@@ -67,11 +67,11 @@ Full paper pages, figures, and reading notes live on [harzva.github.io](https://
 
 ---
 
-## Entrances
+## Links
 
-| Link | Use it for |
+| Link | Content |
 | :--- | :--- |
-| [Portfolio](https://harzva.github.io/) | Complete portfolio, project matrix, papers, articles, and personal notes. |
+| [Portfolio](https://harzva.github.io/) | Portfolio, project matrix, papers, articles, and personal notes. |
 | [Agent Projects](https://harzva.github.io/#projects) | Token Saver, AgentWorkOS, RepoAtlas, hooks, skills, mobile workspace, and meta hubs. |
 | [Publications](https://harzva.github.io/#publications) | Paper details, figures, method notes, and research credibility. |
 | [Article Analysis](https://harzva.github.io/#articles) | Product thinking, case analysis, and agentic engineering notes. |
